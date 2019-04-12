@@ -11,6 +11,7 @@ body {
 	min-width: 260px;
 	color: #333;
 }
+
 #main {
 	margin: 30px auto;
 	padding: 15px;
@@ -26,7 +27,7 @@ img{
   margin: auto;
 }
 
-#img-div{
+#img-div {
   margin:-5px;
   margin-top:20px;
   width:100%;
@@ -42,6 +43,7 @@ img{
 	text-align: center;
 	margin-top: 50px;
 }
+
 #tribute-info {
 	text-align: center;
 }
@@ -50,9 +52,11 @@ ul{
   margin:0 auto;
   text-align:left;
 }
+
 li{
   margin: 10px;
 }
+
 blockquote{
   font-style: italic;
 }
